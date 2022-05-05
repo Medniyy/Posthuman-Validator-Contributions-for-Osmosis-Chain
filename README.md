@@ -13,7 +13,7 @@ This repository based on @Antropocosmist Public Github with my additions. I will
 - We're validating [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam)
 - We working on [Sputnik Network](https://sputnik.exchange/), and we added $OSMO to https://t.me/SputnikPriceBot without any support
 - We added $OSMO to [Sputnik Exchange](https://sputnik.exchange/) and to [Sputnik Network](https://t.me/SputnikNetworkBot). Now users can send tips with $OSMO in Twitter and Telegram, and also p2p-exchange $OSMO directly in Telegram! News in [Twitter](https://twitter.com/SputnikNetwork/status/1417665774785794048)
-- Relayers. Now we have several relayers which working in two directions (to osmosis and out)
+- Relayers. Now we have several relayers which working in two directions (to osmosis and out) 
 1. chihuahua
 2. juno
 3. g-bridge
@@ -22,6 +22,8 @@ This repository based on @Antropocosmist Public Github with my additions. I will
 6. sifchain 
 7. omniflix
 8. asset mantle
+
+[Relayer Address](https://www.mintscan.io/osmosis/account/osmo15z4tpg5yxc9f0a2xuh52hj0cpyz66y95atdg86)
 
 # Community Growth (Twitter, Telegram, Youtube, Medium etc.) 
 ## Twitter <br/>
