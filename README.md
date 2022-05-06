@@ -67,6 +67,8 @@ March 2022<br />
 [21.03.22](https://twitter.com/CosmosEcosystem/status/1505599056302772234)<br />
 April 2022<br />
 [17.04.22](https://twitter.com/CosmosEcosystem/status/1515703792003698692)<br />
+May 2022 <br/>
+[07.05.22](https://twitter.com/CosmosEcosystem/status/1522652655990063106)<br/>
 2. OSMOSIS MENTIONED <br />
 October 2021<br /> 
 [27.10.21](https://twitter.com/CosmosEcosystem/status/1453294534948003842)<br />
@@ -99,6 +101,8 @@ March 2022<br />
 April 2022<br />
 [16.04.22](https://twitter.com/CosmosEcosystem/status/1515350571162742799),
 [22.04.22](https://twitter.com/CosmosEcosystem/status/1517552252348678144)<br />
+May 2022<br/>
+[06.05.22](https://twitter.com/CosmosEcosystem/status/1522650737154662405)<br/>
 
 Some stats:<br/>
 ![777](https://user-images.githubusercontent.com/92199696/166916424-9811180a-e382-4723-a2d3-cfdb9b07448e.jpg)
