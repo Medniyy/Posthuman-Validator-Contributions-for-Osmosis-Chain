@@ -129,6 +129,7 @@ CRYPTOBASE VIDEOS WITH OSMO: <br/>
 - [Best project on Cosmos](https://www.youtube.com/watch?v=3YFKDHx-is4&t=1611s)
 - [Liquidy Pools depositing on Osmosis](https://www.youtube.com/watch?v=Re1oAUxJIFM)
 - [How liquidity pools works on Osmosis and other AMMs](https://www.youtube.com/watch?v=Q4zVZfCOA58&t=2287s)
+- [How to be eligible for all Cosmos Ecosystem Airdrops!](https://youtu.be/N4h-a4GDWkM))
 - Every week we're creating a videochats in Telegram to discuss projects news and to answer on community questions. This chats started from [9th January](https://www.youtube.com/watch?v=-Vh11IKW2s8&t=6337s) and now we're creating new every week. <br/> ![Гол Чат](https://user-images.githubusercontent.com/92199696/166918684-545cf5e9-5463-44b5-b868-32c649831d74.jpg)
 <br/> Now we have [17+recordings playlist](https://youtube.com/playlist?list=PLgQFzABJoJYx-lwnvZwKjDqsDxiccjP-G) where we spreading the word about Osmosis and other projects of Cosmos Ecosystem
 - We also have own Cosmic Academy where we explaining crypto for non-crypto people. <br/>![bebebe](https://user-images.githubusercontent.com/92199696/166920732-0462d67c-92d8-4f3e-a177-e9081ad2a9c9.jpg)<br/> [Here's playlist with 9 videos.](https://youtube.com/playlist?list=PLgQFzABJoJYwqcsFHZx0icgcYOZRgao3d)<br/>
