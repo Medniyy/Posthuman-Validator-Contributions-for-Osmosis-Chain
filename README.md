@@ -103,7 +103,7 @@ April 2022<br />
 [16.04.22](https://twitter.com/CosmosEcosystem/status/1515350571162742799),
 [22.04.22](https://twitter.com/CosmosEcosystem/status/1517552252348678144)<br />
 May 2022<br/>
-[06.05.22](https://twitter.com/CosmosEcosystem/status/1522650737154662405)<br/>
+[06.05.22](https://twitter.com/CosmosEcosystem/status/1522650737154662405), [24.05.22](https://twitter.com/CosmosEcosystem/status/1529115643332726788)
 
 Some stats:<br/>
 ![777](https://user-images.githubusercontent.com/92199696/166916424-9811180a-e382-4723-a2d3-cfdb9b07448e.jpg)
