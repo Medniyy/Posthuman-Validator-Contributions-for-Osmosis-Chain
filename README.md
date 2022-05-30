@@ -1,4 +1,4 @@
-![1v (1)](https://user-images.githubusercontent.com/92199696/166879503-a614ed26-ce6e-465d-b588-a3978e920d3c.png) <br/>
+![image](https://user-images.githubusercontent.com/92199696/170952043-4b06d93b-7545-4ca5-8532-29a06610fc5c.png) <br/>
 # Posthuman-Validator-Contributions-for-Osmosis-Chain
 This repository based on @Antropocosmist Public Github with my additions. I will add here other contributions from POSTHUMAN validator as Part of It!
 # The list of contributions for the [Osmosis](https://app.osmosis.zone/)
