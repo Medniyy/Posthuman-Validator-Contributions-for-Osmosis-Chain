@@ -163,12 +163,15 @@ Also we participate and discuss about Osmosis on other channels:<br/>
 
 
 [CRYPTOLODES](https://www.youtube.com/c/CryptoLodes/videos) VIDEOS:
-In this videos PostHuman validator represented by Vladimir Ponimajushij as Cosmos Ecosystem expert and he talks a lot about Cosmos Ecosystem on this show with Osmosis Mentioning: - 
+In this videos PostHuman validator represented by Vladimir Ponimajushij and Valentin Medniyy as Cosmos Ecosystem experts and we talks a lot about Cosmos Ecosystem on this show with Osmosis Mentioning: - 
 - [Cosmos Talks 2 ](https://www.youtube.com/watch?v=PdJfP-cHJME)
 - [Cosmos Talks 3 ](https://www.youtube.com/watch?v=7wQLv1xEY-Y)
 - [Cosmos Talks 4](https://www.youtube.com/watch?v=wS1h2PkhwN8)
 - [Cosmos Talks 5](https://www.youtube.com/watch?v=OM5jjQA4wCU) 
 - [Cosmos Talks 6](https://www.youtube.com/watch?v=PMSnSWP2hgY)
+- [Cosmos Talks 7](https://www.youtube.com/watch?v=vjUvzYJrw3k)
+- [Cosmos Talks 8](https://www.youtube.com/watch?v=OkcToiATIDk)
+- [Cosmos Talks 9](https://www.youtube.com/watch?v=iy1W2JDnGAU)
 ![3333333](https://user-images.githubusercontent.com/92199696/166915211-779fcbd5-4bf3-432e-8e0d-6f8d278b7412.jpg)
 
 ## Medium <br/>
